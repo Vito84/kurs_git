@@ -1,5 +1,3 @@
-tmp/
-*_old
-*_backup
+.idea
 Thumbs.db
 .DS_Store
